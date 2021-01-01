@@ -31,9 +31,13 @@ I m a Third Year Computer Undergrad at MNNIT. I'm dedicated, hard working, & an 
 
 ## 💹Github Stats :
 <Img src="https://github-readme-stats.vercel.app/api?username=aplha-bot&&show_icons=true&title_color=9933ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="400" height="250">
-<Img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aplha-bot&hide=jupyter%20notebook&text_color=daf7dc&bg_color=151515&title_color=9933ff" width="400" height="250" />
+<Img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aplha-bot&hide=jupyter%20notebook&text_color=daf7dc&bg_color=151515&title_color=9933ff" width="400" height="250" />
 
-🤝 Stay Happy 'n' Keep Coding!!
-🤗 Thank You!
+<p align="center">
+  🤝 Stay Happy 'n' Keep Coding!!
+</p>
 
-Thank you so much for visiting ✌️
+<h1 align="center">
+  🤗 Thank you so much for visiting ✌️
+</h1>
+
