@@ -2,7 +2,7 @@
 
 
 
-I m a Third Year Computer Undergrad at MNNIT. I'm dedicated, hard working,& an avid learner with interest in Computer Programming Languages and Android Development.
+I m a Third Year Computer Undergrad at MNNIT. I'm dedicated, hard working, & an avid learner with interest in Computer Programming Languages and Android Development.
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif?raw=true" width="480" height="320" />
 
