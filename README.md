@@ -15,6 +15,10 @@ I m a Third Year Computer Undergrad at MNNIT. I'm dedicated, hard working, & an 
 - <b>CS Core :</b><code>Data Structures</code>, <code>Algorithms</code>, <code>DBMS</code>, <code>OS</code>, <code>OOP</code>
 
 - <b>Competitive Programming :</b> [Hackerearth](https://www.hackerearth.com/@Sparrow), [CodeChef](https://www.codechef.com/users/alpha_9024), [Hackerrank](https://www.hackerrank.com/incognito_guy), [CodeForces](https://codeforces.com/profile/N1kk1) 
+<br />
+<br />
+<br />
+
 
 ## Here are some facts about me :
 
@@ -29,13 +33,14 @@ I m a Third Year Computer Undergrad at MNNIT. I'm dedicated, hard working, & an 
 <br />
 
 
+
 ## 💹Github Stats :
 <Img src="https://github-readme-stats.vercel.app/api?username=aplha-bot&&show_icons=true&title_color=9933ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="400" height="250">
 <Img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aplha-bot&hide=jupyter%20notebook&text_color=daf7dc&bg_color=151515&title_color=9933ff" width="400" height="250" />
 
-<p align="center">
+<h2 align="center">
   🤝 Stay Happy 'n' Keep Coding!!
-</p>
+</h2>
 
 <h1 align="center">
   🤗 Thank you so much for visiting ✌️
