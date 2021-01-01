@@ -1,8 +1,22 @@
-## Hi, I'm Piyush Nirala ! ʕ•́ᴥ•̀ʔっ♡
+# Hi, I'm Piyush Nirala ! ʕ•́ᴥ•̀ʔっ♡
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif?raw=true" width="500" height="320" />
 
-Here are some ideas to get you started:
+
+I m a Third Year Computer Undergrad at MNNIT. I'm dedicated, hard working,& an avid learner with interest in Computer Programming Languages and Android Development.
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif?raw=true" width="480" height="320" />
+
+
+## ⚙️ Skills :
+- <b>Languages :</b> <code>C++</code>, <code>C</code>, <code>java</code>
+
+- <b>Database Technologies :</b> <code>FireBase</code>, <code>MySQL</code>
+
+- <b>CS Core :</b><code>Data Structures</code>, <code>Algorithms</code>, <code>DBMS</code>, <code>OS</code>, <code>OOP</code>
+
+- <b>Competitive Programming :</b> [Hackerearth](https://www.hackerearth.com/@Sparrow), [CodeChef](https://www.codechef.com/users/alpha_9024), [Hackerrank](https://www.hackerrank.com/incognito_guy), [CodeForces](https://codeforces.com/profile/N1kk1) 
+
+## Here are some facts about me :
 
 - 🔭 I’m currently a Student.
 - 🌱 I’m currently learning DSA & Web Technologies.
@@ -15,5 +29,11 @@ Here are some ideas to get you started:
 <br />
 
 
-### 💹Github Stats :
-<Img src="https://github-readme-stats.vercel.app/api?username=aplha-bot&&show_icons=true&title_color=9933ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+## 💹Github Stats :
+<Img src="https://github-readme-stats.vercel.app/api?username=aplha-bot&&show_icons=true&title_color=9933ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="400" height="250">
+<Img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aplha-bot&hide=jupyter%20notebook&text_color=daf7dc&bg_color=151515&title_color=9933ff" width="400" height="250" />
+
+🤝 Stay Happy 'n' Keep Coding!!
+🤗 Thank You!
+
+Thank you so much for visiting ✌️
