@@ -12,8 +12,6 @@ I'm a full stack developer in BNY, working on Spring boot and Angular.
 - 🔭 I’m currently a Student.
 - 🌱 I’m currently learning DSA & Web Technologies.
 - 👯 I’m looking to collaborate on Open Source Projects.
-- 🤔 I’m looking for help with Flutter Documentation.
-- 💬 Ask me about Firebase in Flutter & DSA.
 - 📫 How to reach me: [LinkedIn - @PiyushNirala](https://www.linkedin.com/in/piyush-nirala-7697161a2/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I used to refresh myself, by spending time in Sketching, BeatBoxing, Video Editing, & lot More..
