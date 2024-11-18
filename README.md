@@ -7,19 +7,6 @@ I'm a full stack developer in BNY, working on Spring boot and Angular.
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif?raw=true" width="480" height="320" />
 
 
-## ⚙️ Skills :
-- <b>Languages :</b> <code>C++</code>, <code>C</code>, <code>java</code>
-
-- <b>Database Technologies :</b> <code>FireBase</code>, <code>MySQL</code>
-
-- <b>CS Core :</b><code>Data Structures</code>, <code>Algorithms</code>, <code>DBMS</code>, <code>OS</code>, <code>OOP</code>
-
-- <b>Competitive Programming :</b> [Hackerearth](https://www.hackerearth.com/@Sparrow), [CodeChef](https://www.codechef.com/users/alpha_9024), [Hackerrank](https://www.hackerrank.com/incognito_guy), [CodeForces](https://codeforces.com/profile/N1kk1) 
-<br />
-<br />
-<br />
-
-
 ## Here are some facts about me :
 
 - 🔭 I’m currently a Student.
